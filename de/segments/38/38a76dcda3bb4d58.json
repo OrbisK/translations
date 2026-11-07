@@ -3,12 +3,16 @@
   "source": "**File-based routing:** define routes based on the structure of your {0}{1} directory{/0}. This can make it easier to organize your application and avoid the need for manual route configuration.",
   "text": "**Dateibasiertes Routing:** Definiere Routen anhand der Struktur deines {0}Verzeichnisses {1}{/0}. Das kann die Organisation deiner Anwendung erleichtern und macht eine manuelle Routenkonfiguration überflüssig.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Dateibasiertes Routing:** Definiere Routen anhand der Struktur deines {0}Verzeichnisses {1}{/0}. Das kann die Organisation deiner Anwendung erleichtern und macht eine manuelle Routenkonfiguration überflüssig."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

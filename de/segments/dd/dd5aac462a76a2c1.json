@@ -3,12 +3,16 @@
   "source": "**Better performance on low-powered devices:** it reduces the amount of JavaScript that needs to be downloaded and executed on the client-side, which can be beneficial for low-powered devices that may struggle with processing heavy JavaScript applications.",
   "text": "**Bessere Performance auf leistungsschwachen Geräten:** Es verringert die Menge an JavaScript, die clientseitig heruntergeladen und ausgeführt werden muss. Das kann bei leistungsschwachen Geräten hilfreich sein, die mit der Verarbeitung umfangreicher JavaScript-Anwendungen Schwierigkeiten haben.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Bessere Performance auf leistungsschwachen Geräten:** Es verringert die Menge an JavaScript, die clientseitig heruntergeladen und ausgeführt werden muss. Das kann bei leistungsschwachen Geräten hilfreich sein, die mit der Verarbeitung umfangreicher JavaScript-Anwendungen Schwierigkeiten haben."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

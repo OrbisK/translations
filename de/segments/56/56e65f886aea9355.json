@@ -3,12 +3,16 @@
   "source": "**Data-fetching utilities:** Nuxt provides composables to handle SSR-compatible data fetching as well as different strategies.",
   "text": "**Hilfsfunktionen für den Datenabruf:** Nuxt stellt Composables bereit, die SSR-kompatiblen Datenabruf sowie verschiedene Strategien unterstützen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Hilfsfunktionen für den Datenabruf:** Nuxt stellt Composables bereit, die SSR-kompatiblen Datenabruf sowie verschiedene Strategien unterstützen."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

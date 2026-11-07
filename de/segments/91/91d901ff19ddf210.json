@@ -3,12 +3,16 @@
   "source": "Server engine: {0}nitro{/0}",
   "text": "Server-Engine: {0}nitro{/0}",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Server-Engine: {0}nitro{/0}"
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

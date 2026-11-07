@@ -1,0 +1,10 @@
+{
+  "hash": "979b7f8d599cced5",
+  "source": "Bundlers: {0}@nuxt/vite-builder{/0}, {1}@nuxt/rspack-builder{/1} and {2}@nuxt/webpack-builder{/2}",
+  "text": "Bundlers: {0}@nuxt/vite-builder{/0}, {1}@nuxt/rspack-builder{/1} und {2}@nuxt/webpack-builder{/2}",
+  "origin": "human",
+  "review": "edited",
+  "derived": "fresh",
+  "by": "trueberryless",
+  "updatedAt": "2026-11-07T19:05:38.357Z"
+}

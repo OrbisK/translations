@@ -3,12 +3,16 @@
   "source": "As Nuxt is a versatile framework, it gives you the possibility to statically render your whole application to a static hosting with {0}, disable SSR globally with the {1} option or leverage hybrid rendering by setting up the {2} option.",
   "text": "Da Nuxt ein vielseitiges Framework ist, kannst du deine gesamte Anwendung mit {0} statisch für ein statisches Hosting rendern, SSR global mit der Option {1} deaktivieren oder hybrides Rendering nutzen, indem du die Option {2} einrichtest.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Da Nuxt ein vielseitiges Framework ist, kannst du deine gesamte Anwendung mit {0} statisch für ein statisches Hosting rendern, SSR global mit der Option {1} deaktivieren oder hybrides Rendering nutzen, indem du die Option {2} einrichtest."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

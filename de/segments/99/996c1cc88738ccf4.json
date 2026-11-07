@@ -3,12 +3,16 @@
   "source": "**Zero-config TypeScript support:** write type-safe code without having to learn TypeScript with our auto-generated types and {0}.",
   "text": "**TypeScript-Unterstützung ohne Konfiguration:** Schreibe typsicheren Code, ohne TypeScript lernen zu müssen – dank unserer automatisch generierten Typen und {0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**TypeScript-Unterstützung ohne Konfiguration:** Schreibe typsicheren Code, ohne TypeScript lernen zu müssen – dank unserer automatisch generierten Typen und {0}."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

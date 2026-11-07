@@ -3,12 +3,16 @@
   "source": "**Easier caching:** pages can be cached on the server-side, which can further improve performance by reducing the amount of time it takes to generate and send the content to the client.",
   "text": "**Einfacheres Caching:** Seiten können serverseitig zwischengespeichert werden, was die Performance weiter verbessern kann, da weniger Zeit für das Generieren und Senden des Inhalts an den Client benötigt wird.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Einfacheres Caching:** Seiten können serverseitig zwischengespeichert werden, was die Performance weiter verbessern kann, da weniger Zeit für das Generieren und Senden des Inhalts an den Client benötigt wird."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

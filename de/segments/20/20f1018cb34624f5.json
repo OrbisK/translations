@@ -3,12 +3,16 @@
   "source": "Overall, server-side rendering can provide a faster and more efficient user experience, as well as improve search engine optimization and accessibility.",
   "text": "Insgesamt kann serverseitiges Rendering eine schnellere und effizientere Nutzungserfahrung bieten und zudem die Suchmaschinenoptimierung und die Barrierefreiheit verbessern.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Insgesamt kann serverseitiges Rendering eine schnellere und effizientere Nutzungserfahrung bieten und zudem die Suchmaschinenoptimierung und die Barrierefreiheit verbessern."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

@@ -3,12 +3,16 @@
   "source": "A module system allows you to extend Nuxt with custom features and integrations with third-party services.",
   "text": "Mit einem Modulsystem kannst du Nuxt um eigene Funktionen und Integrationen mit Drittanbieterdiensten erweitern.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Mit einem Modulsystem kannst du Nuxt um eigene Funktionen und Integrationen mit Drittanbieterdiensten erweitern."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

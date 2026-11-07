@@ -3,12 +3,16 @@
   "source": "Nuxt has no vendor lock-in, allowing you to deploy your application {0}**everywhere, even on the edge**{/0}.",
   "text": "Nuxt hat kein Vendor-Lock-in, sodass du deine Anwendung {0}**überall bereitstellen kannst, sogar am Edge**{/0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt hat kein Vendor-Lock-in, sodass du deine Anwendung {0}**überall bereitstellen kannst, sogar am Edge**{/0}."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

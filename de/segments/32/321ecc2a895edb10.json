@@ -3,12 +3,16 @@
   "source": "**Code splitting:** Nuxt automatically splits your code into smaller chunks, which can help reduce the initial load time of your application.",
   "text": "**Code-Splitting:** Nuxt teilt deinen Code automatisch in kleinere Chunks auf, was die anfängliche Ladezeit deiner Anwendung verringern kann.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Code-Splitting:** Nuxt teilt deinen Code automatisch in kleinere Chunks auf, was die anfängliche Ladezeit deiner Anwendung verringern kann."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }

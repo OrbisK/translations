@@ -3,12 +3,16 @@
   "source": "We recommend reading each concept to have a full vision of Nuxt capabilities and the scope of each package.",
   "text": "Wir empfehlen, jedes Konzept zu lesen, um einen vollständigen Überblick über die Möglichkeiten von Nuxt und den Umfang der einzelnen Pakete zu bekommen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wir empfehlen, jedes Konzept zu lesen, um einen vollständigen Überblick über die Möglichkeiten von Nuxt und den Umfang der einzelnen Pakete zu bekommen."
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-07T19:05:38.357Z"
+  },
+  "updatedAt": "2026-11-07T19:05:38.357Z"
 }
