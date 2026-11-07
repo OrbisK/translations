@@ -1,0 +1,14 @@
+{
+  "hash": "5c9573fb173239c5",
+  "source": "We made everything so you can start writing {0} files from the beginning while enjoying hot module replacement in development and a performant application in production with server-side rendering by default.",
+  "text": "Wir haben alles so gestaltet, dass du von Anfang an {0}-Dateien schreiben kannst. Dabei profitierst du in der Entwicklung von Hot Module Replacement und erhältst in Produktion standardmäßig eine performante Anwendung mit serverseitigem Rendering.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir haben alles so gestaltet, dass du von Anfang an {0}-Dateien schreiben kannst. Dabei profitierst du in der Entwicklung von Hot Module Replacement und erhältst in Produktion standardmäßig eine performante Anwendung mit serverseitigem Rendering."
+  },
+  "updatedAt": "2026-11-07T18:13:50.741Z"
+}

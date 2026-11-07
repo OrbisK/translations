@@ -1,0 +1,14 @@
+{
+  "hash": "c778a5039e0ca98f",
+  "source": "Get Started",
+  "text": "Erste Schritte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erste Schritte"
+  },
+  "updatedAt": "2026-11-07T18:13:50.741Z"
+}

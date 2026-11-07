@@ -1,0 +1,14 @@
+{
+  "hash": "c18a9dd444a7535e",
+  "source": "Nuxt's goal is to make web development intuitive and performant with a great Developer Experience in mind.",
+  "text": "Nuxt hat das Ziel, Webentwicklung intuitiv und performant zu machen – mit einer hervorragenden Developer Experience.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt hat das Ziel, Webentwicklung intuitiv und performant zu machen – mit einer hervorragenden Developer Experience."
+  },
+  "updatedAt": "2026-11-07T18:13:50.741Z"
+}

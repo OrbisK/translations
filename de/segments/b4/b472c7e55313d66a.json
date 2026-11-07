@@ -1,0 +1,14 @@
+{
+  "hash": "b472c7e55313d66a",
+  "source": "Automation and Conventions",
+  "text": "Automatisierung und Konventionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatisierung und Konventionen"
+  },
+  "updatedAt": "2026-11-07T18:13:50.741Z"
+}
