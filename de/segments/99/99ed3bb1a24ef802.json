@@ -1,0 +1,14 @@
+{
+  "hash": "99ed3bb1a24ef802",
+  "source": "This does not work: the path is built at runtime, so Vite never sees it as an import.",
+  "text": "Das funktioniert nicht: Der Pfad wird zur Laufzeit zusammengesetzt, daher erkennt Vite ihn nie als Import.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das funktioniert nicht: Der Pfad wird zur Laufzeit zusammengesetzt, daher erkennt Vite ihn nie als Import."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

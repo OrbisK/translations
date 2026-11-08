@@ -1,0 +1,14 @@
+{
+  "hash": "6fb80fbed32bea46",
+  "source": "If you need more advanced control, you can intercept the rendered html with a hook and modify the head programmatically.",
+  "text": "Wenn du mehr Kontrolle brauchst, kannst du das gerenderte HTML mit einem Hook abfangen und den head programmatisch anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du mehr Kontrolle brauchst, kannst du das gerenderte HTML mit einem Hook abfangen und den head programmatisch anpassen."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29f54d5ad1505fd1",
+  "source": "Then reference your fonts by name in your stylesheets, pages or components:",
+  "text": "Verweise danach in deinen Stylesheets, Seiten oder Komponenten über den Namen auf deine Schriftarten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verweise danach in deinen Stylesheets, Seiten oder Komponenten über den Namen auf deine Schriftarten:"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

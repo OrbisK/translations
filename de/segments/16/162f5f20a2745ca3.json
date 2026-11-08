@@ -1,0 +1,14 @@
+{
+  "hash": "162f5f20a2745ca3",
+  "source": "The CSS Property",
+  "text": "Die CSS-Eigenschaft",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die CSS-Eigenschaft"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

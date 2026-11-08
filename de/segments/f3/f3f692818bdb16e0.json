@@ -1,0 +1,14 @@
+{
+  "hash": "f3f692818bdb16e0",
+  "source": "The {0} file, located in the source directory (by default {1}), is used to expose public variables that can be determined at build time. Contrary to the {2} option, these cannot be overridden using environment variables.",
+  "text": "Die Datei {0} im Quellverzeichnis (standardmäßig {1}) dient dazu, öffentliche Variablen bereitzustellen, die zur Build-Zeit festgelegt werden können. Anders als die Option {2} lassen sie sich nicht mit Umgebungsvariablen überschreiben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei {0} im Quellverzeichnis (standardmäßig {1}) dient dazu, öffentliche Variablen bereitzustellen, die zur Build-Zeit festgelegt werden können. Anders als die Option {2} lassen sie sich nicht mit Umgebungsvariablen überschreiben."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

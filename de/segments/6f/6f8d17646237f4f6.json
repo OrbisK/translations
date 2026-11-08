@@ -1,0 +1,14 @@
+{
+  "hash": "6f8d17646237f4f6",
+  "source": "New Project",
+  "text": "Neues Projekt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Neues Projekt"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

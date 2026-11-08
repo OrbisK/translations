@@ -1,0 +1,14 @@
+{
+  "hash": "4500a162483ef958",
+  "source": "These variables are exposed to the rest of your application using the {0} composable.",
+  "text": "Diese Variablen werden über das Composable {0} für den Rest deiner Anwendung bereitgestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Variablen werden über das Composable {0} für den Rest deiner Anwendung bereitgestellt."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

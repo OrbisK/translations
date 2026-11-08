@@ -1,0 +1,14 @@
+{
+  "hash": "638e49cf3be47352",
+  "source": "You can manipulate the head with the {0} property of your Nuxt configuration:",
+  "text": "Du kannst den head mit der Eigenschaft {0} deiner Nuxt-Konfiguration anpassen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den head mit der Eigenschaft {0} deiner Nuxt-Konfiguration anpassen:"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

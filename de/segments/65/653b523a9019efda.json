@@ -1,0 +1,14 @@
+{
+  "hash": "653b523a9019efda",
+  "source": "This will be an object representation of the html template.",
+  "text": "Dies ist eine Objektdarstellung der HTML-Vorlage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ist eine Objektdarstellung der HTML-Vorlage."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

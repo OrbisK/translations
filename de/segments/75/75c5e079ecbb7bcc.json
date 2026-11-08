@@ -1,0 +1,14 @@
+{
+  "hash": "75c5e079ecbb7bcc",
+  "source": "Nuxt provides several component layers to implement the user interface of your application.",
+  "text": "Nuxt bietet mehrere Komponentenebenen, um die Benutzeroberfläche deiner Anwendung umzusetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet mehrere Komponentenebenen, um die Benutzeroberfläche deiner Anwendung umzusetzen."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

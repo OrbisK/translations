@@ -1,0 +1,14 @@
+{
+  "hash": "aac7246f5e97142c",
+  "source": "Environment variables",
+  "text": "Umgebungsvariablen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Umgebungsvariablen"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

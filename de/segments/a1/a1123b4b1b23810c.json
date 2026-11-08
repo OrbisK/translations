@@ -1,0 +1,14 @@
+{
+  "hash": "a1123b4b1b23810c",
+  "source": "Play Online",
+  "text": "Online ausprobieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Online ausprobieren"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

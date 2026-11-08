@@ -1,0 +1,14 @@
+{
+  "hash": "cd7c1d808e95af5c",
+  "source": "App Configuration",
+  "text": "App-Konfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "App-Konfiguration"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

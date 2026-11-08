@@ -1,0 +1,14 @@
+{
+  "hash": "2b8a2ff1872ad501",
+  "source": "If you only have a single layout in your application, we recommend using {0} with {1} instead.",
+  "text": "Wenn deine Anwendung nur ein einziges Layout hat, empfehlen wir, stattdessen {0} mit {1} zu verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Anwendung nur ein einziges Layout hat, empfehlen wir, stattdessen {0} mit {1} zu verwenden."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

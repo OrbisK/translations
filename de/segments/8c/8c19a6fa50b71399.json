@@ -1,0 +1,14 @@
+{
+  "hash": "8c19a6fa50b71399",
+  "source": "Online playground with code editor and terminal access.",
+  "text": "Online-Playground mit Code-Editor und Terminalzugriff.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Online-Playground mit Code-Editor und Terminalzugriff."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

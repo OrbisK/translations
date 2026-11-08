@@ -1,0 +1,14 @@
+{
+  "hash": "5175b272d9b05ea5",
+  "source": "In both cases, the compiled stylesheets will be inlined in the HTML rendered by Nuxt.",
+  "text": "In beiden Fällen werden die kompilierten Stylesheets in das von Nuxt gerenderte HTML eingebettet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In beiden Fällen werden die kompilierten Stylesheets in das von Nuxt gerenderte HTML eingebettet."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

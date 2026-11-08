@@ -1,0 +1,14 @@
+{
+  "hash": "91ef04084e75d1eb",
+  "source": "Static paths are rewritten: app.baseURL is applied at runtime, and the bundled file is hashed.",
+  "text": "Statische Pfade werden umgeschrieben: app.baseURL wird zur Laufzeit angewendet, und die gebündelte Datei erhält einen Hash.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statische Pfade werden umgeschrieben: app.baseURL wird zur Laufzeit angewendet, und die gebündelte Datei erhält einen Hash."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

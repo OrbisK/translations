@@ -1,0 +1,14 @@
+{
+  "hash": "c26fb3f116b49f7f",
+  "source": "Styling",
+  "text": "Styling",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Styling"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

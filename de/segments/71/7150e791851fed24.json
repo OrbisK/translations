@@ -1,0 +1,14 @@
+{
+  "hash": "7150e791851fed24",
+  "source": "The app.vue file is the entry point of your application",
+  "text": "Die Datei app.vue ist der Einstiegspunkt deiner Anwendung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei app.vue ist der Einstiegspunkt deiner Anwendung"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

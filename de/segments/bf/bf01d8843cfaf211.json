@@ -1,0 +1,14 @@
+{
+  "hash": "bf01d8843cfaf211",
+  "source": "Open your project folder in Visual Studio Code:",
+  "text": "Öffne dein Projektverzeichnis in Visual Studio Code:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffne dein Projektverzeichnis in Visual Studio Code:"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

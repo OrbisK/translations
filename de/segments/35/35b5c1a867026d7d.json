@@ -1,0 +1,14 @@
+{
+  "hash": "35b5c1a867026d7d",
+  "source": "Routing Section",
+  "text": "Abschnitt „Routing“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Abschnitt „Routing“"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

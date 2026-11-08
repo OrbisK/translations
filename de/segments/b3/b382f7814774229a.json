@@ -1,0 +1,14 @@
+{
+  "hash": "b382f7814774229a",
+  "source": "If you are familiar with Vue, you might wonder where {0} is (the file that normally creates a Vue app). Nuxt does this behind the scene.",
+  "text": "Wenn du mit Vue vertraut bist, fragst du dich vielleicht, wo {0} ist (die Datei, die normalerweise eine Vue-Anwendung erstellt). Nuxt übernimmt das im Hintergrund.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du mit Vue vertraut bist, fragst du dich vielleicht, wo {0} ist (die Datei, die normalerweise eine Vue-Anwendung erstellt). Nuxt übernimmt das im Hintergrund."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

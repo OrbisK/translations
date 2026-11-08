@@ -1,0 +1,14 @@
+{
+  "hash": "46d32efc64a7e91e",
+  "source": "Assets Directory",
+  "text": "Verzeichnis „assets“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzeichnis „assets“"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

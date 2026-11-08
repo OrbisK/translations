@@ -1,0 +1,14 @@
+{
+  "hash": "6762edfd9afe8eab",
+  "source": "Now that you've created your Nuxt project, you are ready to start building your application.",
+  "text": "Nachdem du dein Nuxt-Projekt erstellt hast, kannst du mit der Entwicklung deiner Anwendung beginnen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nachdem du dein Nuxt-Projekt erstellt hast, kannst du mit der Entwicklung deiner Anwendung beginnen."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

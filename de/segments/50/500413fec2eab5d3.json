@@ -1,0 +1,14 @@
+{
+  "hash": "500413fec2eab5d3",
+  "source": "Enabling Experimental Vue Features",
+  "text": "Experimentelle Vue-Funktionen aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Experimentelle Vue-Funktionen aktivieren"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

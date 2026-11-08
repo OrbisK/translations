@@ -1,0 +1,14 @@
+{
+  "hash": "b4922f09abe47548",
+  "source": "Well done! A browser window should automatically open for {0}.",
+  "text": "Gut gemacht! Es sollte sich automatisch ein Browserfenster für {0} öffnen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gut gemacht! Es sollte sich automatisch ein Browserfenster für {0} öffnen."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

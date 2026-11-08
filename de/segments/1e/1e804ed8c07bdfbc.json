@@ -1,0 +1,14 @@
+{
+  "hash": "1e804ed8c07bdfbc",
+  "source": "Using Preprocessors",
+  "text": "Präprozessoren verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Präprozessoren verwenden"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

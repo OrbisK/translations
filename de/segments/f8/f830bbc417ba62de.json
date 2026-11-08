@@ -1,0 +1,14 @@
+{
+  "hash": "f830bbc417ba62de",
+  "source": "Use a static import for server-side compatibility",
+  "text": "Statischen Import verwenden, damit er serverseitig kompatibel ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statischen Import verwenden, damit er serverseitig kompatibel ist"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

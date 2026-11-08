@@ -1,0 +1,14 @@
+{
+  "hash": "85e3d5a7dfd4aed7",
+  "source": "Here is a list of other common config files:",
+  "text": "Hier ist eine Liste weiterer gängiger Konfigurationsdateien:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier ist eine Liste weiterer gängiger Konfigurationsdateien:"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

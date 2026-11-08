@@ -1,0 +1,14 @@
+{
+  "hash": "1b807a83242225f1",
+  "source": "Environment Overrides",
+  "text": "Überschreibungen pro Umgebung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Überschreibungen pro Umgebung"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

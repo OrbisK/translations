@@ -1,0 +1,14 @@
+{
+  "hash": "d494144a16314a19",
+  "source": "If you're writing local stylesheets, the natural place to put them is the {0}{1} directory{/0}.",
+  "text": "Wenn du lokale Stylesheets schreibst, legst du sie am besten im {0}{1}-Verzeichnis{/0} ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du lokale Stylesheets schreibst, legst du sie am besten im {0}{1}-Verzeichnis{/0} ab."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "623d3d7720c21350",
+  "source": "Public Assets",
+  "text": "Öffentliche Assets",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffentliche Assets"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ab8e1bc9e9e0d786",
+  "source": "A minimal configuration file exports the {0} function containing an object with your configuration. The {1} helper is globally available without import.",
+  "text": "Eine minimale Konfigurationsdatei exportiert die Funktion {0}, die ein Objekt mit deiner Konfiguration enthält. Das Hilfsprogramm {1} ist global ohne Import verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine minimale Konfigurationsdatei exportiert die Funktion {0}, die ein Objekt mit deiner Konfiguration enthält. Das Hilfsprogramm {1} ist global ohne Import verfügbar."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

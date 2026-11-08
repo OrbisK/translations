@@ -1,0 +1,14 @@
+{
+  "hash": "7e497efc0eb6e618",
+  "source": "Bundled Assets with Vite",
+  "text": "Gebündelte Assets mit Vite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gebündelte Assets mit Vite"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

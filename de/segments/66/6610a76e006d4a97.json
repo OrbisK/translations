@@ -1,0 +1,14 @@
+{
+  "hash": "6610a76e006d4a97",
+  "source": "To use the Bun runtime during development",
+  "text": "Um die Bun-Runtime während der Entwicklung zu verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Bun-Runtime während der Entwicklung zu verwenden"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

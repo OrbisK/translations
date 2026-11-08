@@ -1,0 +1,14 @@
+{
+  "hash": "49d0868241edd56f",
+  "source": "Keys within public are also exposed client-side",
+  "text": "Schlüssel innerhalb von public sind auch clientseitig verfügbar",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schlüssel innerhalb von public sind auch clientseitig verfügbar"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c5a92fc3d3728573",
+  "source": "Nuxt offers two options for your assets.",
+  "text": "Nuxt bietet zwei Möglichkeiten für deine Assets.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet zwei Möglichkeiten für deine Assets."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

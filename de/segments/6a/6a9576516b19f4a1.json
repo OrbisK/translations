@@ -1,0 +1,14 @@
+{
+  "hash": "6a9576516b19f4a1",
+  "source": "The {0} directory content is served at the server root as-is.",
+  "text": "Der Inhalt des Verzeichnisses {0} wird unverändert im Stammverzeichnis des Servers bereitgestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Inhalt des Verzeichnisses {0} wird unverändert im Stammverzeichnis des Servers bereitgestellt."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "53df55d68534f559",
+  "source": "Advanced: Extending the HTML Template",
+  "text": "Fortgeschritten: Die HTML-Vorlage erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fortgeschritten: Die HTML-Vorlage erweitern"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

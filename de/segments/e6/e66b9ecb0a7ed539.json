@@ -1,0 +1,14 @@
+{
+  "hash": "e66b9ecb0a7ed539",
+  "source": "Static vs. Dynamic {0}",
+  "text": "Statisches vs. dynamisches {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statisches vs. dynamisches {0}"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

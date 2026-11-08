@@ -1,0 +1,14 @@
+{
+  "hash": "4dff747369a67282",
+  "source": "Dynamically Adding Stylesheets",
+  "text": "Stylesheets dynamisch hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stylesheets dynamisch hinzufügen"
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}

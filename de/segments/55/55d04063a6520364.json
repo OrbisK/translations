@@ -1,0 +1,14 @@
+{
+  "hash": "55d04063a6520364",
+  "source": "Learn how to style your Nuxt application.",
+  "text": "Erfahre, wie du deine Nuxt-Anwendung mit Styles versiehst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du deine Nuxt-Anwendung mit Styles versiehst."
+  },
+  "updatedAt": "2026-11-08T00:34:47.570Z"
+}
