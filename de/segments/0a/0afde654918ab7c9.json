@@ -1,14 +1,15 @@
 {
   "hash": "0afde654918ab7c9",
   "source": "**Node.js**: Make sure to use an even numbered version (22, 24, etc.)",
-  "text": "**Node.js**: Verwende unbedingt eine Version mit gerader Nummer (22, 24 usw.)",
-  "origin": "mt",
-  "review": "none",
+  "text": "**Node.js**: Verwende unbedingt eine Version mit einer geraden Nummer (22, 24 usw.)",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Node.js**: Verwende unbedingt eine Version mit gerader Nummer (22, 24 usw.)"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T15:00:37.487Z"
 }

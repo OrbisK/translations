@@ -3,12 +3,16 @@
   "source": "**Text editor** - There is no IDE requirement, but we recommend {0}Visual Studio Code{/0} with the {1}official Vue extension{/1} (previously known as Volar) or {2}WebStorm{/2}, which, along with {3}other JetBrains IDEs{/3}, offers great Nuxt support right out-of-the-box. If you use another editor, such as Neovim, you can configure {4}Vue Language Server{/4} support by following the {5}Vue Language Tools setup guides{/5}.",
   "text": "**Texteditor** – Es gibt keine IDE-Vorgabe, wir empfehlen jedoch {0}Visual Studio Code{/0} mit der {1}offiziellen Vue-Erweiterung{/1} (früher als Volar bekannt) oder {2}WebStorm{/2}, das zusammen mit {3}weiteren JetBrains-IDEs{/3} von Haus aus eine hervorragende Nuxt-Unterstützung bietet. Wenn du einen anderen Editor wie Neovim verwendest, kannst du die Unterstützung für den {4}Vue Language Server{/4} einrichten, indem du den {5}Einrichtungsanleitungen für die Vue Language Tools{/5} folgst.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Texteditor** – Es gibt keine IDE-Vorgabe, wir empfehlen jedoch {0}Visual Studio Code{/0} mit der {1}offiziellen Vue-Erweiterung{/1} (früher als Volar bekannt) oder {2}WebStorm{/2}, das zusammen mit {3}weiteren JetBrains-IDEs{/3} von Haus aus eine hervorragende Nuxt-Unterstützung bietet. Wenn du einen anderen Editor wie Neovim verwendest, kannst du die Unterstützung für den {4}Vue Language Server{/4} einrichten, indem du den {5}Einrichtungsanleitungen für die Vue Language Tools{/5} folgst."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:00:37.487Z"
+  },
+  "updatedAt": "2026-11-08T15:00:37.487Z"
 }

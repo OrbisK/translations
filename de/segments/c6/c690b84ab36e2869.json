@@ -3,12 +3,16 @@
   "source": "Open a terminal (if you're using {0}Visual Studio Code{/0}, you can open an {1}integrated terminal{/1}) and use the following command to create a new starter project:",
   "text": "Öffne ein Terminal (wenn du {0}Visual Studio Code{/0} verwendest, kannst du ein {1}integriertes Terminal{/1} öffnen) und erstelle mit dem folgenden Befehl ein neues Starterprojekt:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Öffne ein Terminal (wenn du {0}Visual Studio Code{/0} verwendest, kannst du ein {1}integriertes Terminal{/1} öffnen) und erstelle mit dem folgenden Befehl ein neues Starterprojekt:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:00:37.487Z"
+  },
+  "updatedAt": "2026-11-08T15:00:37.487Z"
 }

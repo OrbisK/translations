@@ -3,12 +3,16 @@
   "source": "If you just want to play around with Nuxt in your browser without setting up a project, you can use this online sandbox:",
   "text": "Wenn du Nuxt einfach im Browser ausprobieren möchtest, ohne ein Projekt einzurichten, kannst du diese Online-Sandbox verwenden:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du Nuxt einfach im Browser ausprobieren möchtest, ohne ein Projekt einzurichten, kannst du diese Online-Sandbox verwenden:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:00:37.487Z"
+  },
+  "updatedAt": "2026-11-08T15:00:37.487Z"
 }

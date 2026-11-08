@@ -3,12 +3,16 @@
   "source": "**Terminal** - In order to run Nuxt commands",
   "text": "**Terminal** – um Nuxt-Befehle auszuführen",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Terminal** – um Nuxt-Befehle auszuführen"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:00:37.487Z"
+  },
+  "updatedAt": "2026-11-08T15:00:37.487Z"
 }

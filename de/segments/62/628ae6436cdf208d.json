@@ -3,12 +3,16 @@
   "source": "If you're using Docker or want a consistent development environment across machines, consider using a dev container. {0}Learn more about dev containers.{/0}",
   "text": "Wenn du Docker verwendest oder eine konsistente Entwicklungsumgebung über mehrere Rechner hinweg möchtest, kannst du einen Dev-Container nutzen. {0}Mehr über Dev-Container erfahren.{/0}",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du Docker verwendest oder eine konsistente Entwicklungsumgebung über mehrere Rechner hinweg möchtest, kannst du einen Dev-Container nutzen. {0}Mehr über Dev-Container erfahren.{/0}"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:00:37.487Z"
+  },
+  "updatedAt": "2026-11-08T15:00:37.487Z"
 }
