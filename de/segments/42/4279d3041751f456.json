@@ -1,14 +1,15 @@
 {
   "hash": "4279d3041751f456",
   "source": "You can configure fully typed, per-environment overrides in your nuxt.config",
-  "text": "In deiner nuxt.config kannst du vollständig typisierte Überschreibungen für einzelne Umgebungen konfigurieren.",
-  "origin": "mt",
-  "review": "none",
+  "text": "In deiner nuxt.config kannst du vollständig typisierte Einstellungen für einzelne Umgebungen überschreiben.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "In deiner nuxt.config kannst du vollständig typisierte Überschreibungen für einzelne Umgebungen konfigurieren."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

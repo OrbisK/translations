@@ -3,12 +3,16 @@
   "source": "experimental {0} migration from Vue 3.4 and Nuxt 3.9",
   "text": "Experimentelle Migration von {0} ab Vue 3.4 und Nuxt 3.9",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Experimentelle Migration von {0} ab Vue 3.4 und Nuxt 3.9"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

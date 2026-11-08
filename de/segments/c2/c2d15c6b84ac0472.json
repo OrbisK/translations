@@ -3,12 +3,16 @@
   "source": "{0} for {1}. Check {2}available options{/2}.",
   "text": "{0} für {1}. Sieh dir die {2}verfügbaren Optionen{/2} an.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0} für {1}. Sieh dir die {2}verfügbaren Optionen{/2} an."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

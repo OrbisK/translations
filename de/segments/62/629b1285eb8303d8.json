@@ -3,12 +3,16 @@
   "source": "The {0} file is located at the root of a Nuxt project and can override or extend the application's behavior.",
   "text": "Die Datei {0} befindet sich im Stammverzeichnis eines Nuxt-Projekts und kann das Verhalten der Anwendung überschreiben oder erweitern.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Die Datei {0} befindet sich im Stammverzeichnis eines Nuxt-Projekts und kann das Verhalten der Anwendung überschreiben oder erweitern."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

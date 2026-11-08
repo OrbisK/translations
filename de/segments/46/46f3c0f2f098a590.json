@@ -3,12 +3,16 @@
   "source": "By default, Nuxt is configured to cover most use cases. The {0} file can override or extend this default configuration.",
   "text": "Standardmäßig ist Nuxt so konfiguriert, dass es die meisten Anwendungsfälle abdeckt. Die Datei {0} kann diese Standardkonfiguration überschreiben oder erweitern.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Standardmäßig ist Nuxt so konfiguriert, dass es die meisten Anwendungsfälle abdeckt. Die Datei {0} kann diese Standardkonfiguration überschreiben oder erweitern."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

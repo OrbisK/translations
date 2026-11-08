@@ -3,12 +3,16 @@
   "source": "As stated above, {0} and {1} are both used to expose variables to the rest of your application. To determine whether you should use one or the other, here are some guidelines:",
   "text": "Wie oben beschrieben, dienen {0} und {1} beide dazu, Variablen für den Rest deiner Anwendung bereitzustellen. Die folgenden Richtlinien helfen dir bei der Entscheidung, welche der beiden Möglichkeiten du verwenden solltest:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wie oben beschrieben, dienen {0} und {1} beide dazu, Variablen für den Rest deiner Anwendung bereitzustellen. Die folgenden Richtlinien helfen dir bei der Entscheidung, welche der beiden Möglichkeiten du verwenden solltest:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

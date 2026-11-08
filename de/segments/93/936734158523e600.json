@@ -3,12 +3,16 @@
   "source": "Nuxt is configured with sensible defaults to make you productive.",
   "text": "Nuxt ist mit sinnvollen Standardwerten konfiguriert, damit du produktiv arbeiten kannst.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt ist mit sinnvollen Standardwerten konfiguriert, damit du produktiv arbeiten kannst."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

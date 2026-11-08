@@ -1,14 +1,15 @@
 {
   "hash": "3d377ae910dce03a",
   "source": "Feature",
-  "text": "Funktion",
-  "origin": "mt",
-  "review": "none",
+  "text": "Funktionalität",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Funktion"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

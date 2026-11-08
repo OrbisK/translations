@@ -3,12 +3,16 @@
   "source": "{0}: Private or public tokens that need to be specified after build using environment variables.",
   "text": "{0}: Private oder öffentliche Tokens, die nach dem Build mithilfe von Umgebungsvariablen angegeben werden müssen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0}: Private oder öffentliche Tokens, die nach dem Build mithilfe von Umgebungsvariablen angegeben werden müssen."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

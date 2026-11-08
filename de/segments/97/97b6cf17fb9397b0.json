@@ -1,14 +1,15 @@
 {
   "hash": "97b6cf17fb9397b0",
   "source": "You may need to enable experimental features in Vue, such as {0}. Nuxt provides an easy way to do that in {1}, no matter which builder you are using:",
-  "text": "Möglicherweise musst du experimentelle Funktionen in Vue aktivieren, z. B. {0}. Nuxt bietet dafür in {1} eine unkomplizierte Möglichkeit, unabhängig davon, welchen Bundler du verwendest:",
-  "origin": "mt",
-  "review": "none",
+  "text": "Möglicherweise möchtest du experimentelle Funktionen für Vue aktivieren, z. B. {0}. Nuxt bietet dafür in {1} eine unkomplizierte Möglichkeit, unabhängig davon, welchen Bundler du verwendest:",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Möglicherweise musst du experimentelle Funktionen in Vue aktivieren, z. B. {0}. Nuxt bietet dafür in {1} eine unkomplizierte Möglichkeit, unabhängig davon, welchen Bundler du verwendest:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

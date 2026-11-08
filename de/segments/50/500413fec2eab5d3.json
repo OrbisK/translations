@@ -1,14 +1,15 @@
 {
   "hash": "500413fec2eab5d3",
   "source": "Enabling Experimental Vue Features",
-  "text": "Experimentelle Vue-Funktionen aktivieren",
-  "origin": "mt",
-  "review": "none",
+  "text": "Experimentelle Vue-Funktionalitäten aktivieren",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Experimentelle Vue-Funktionen aktivieren"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

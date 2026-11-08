@@ -3,12 +3,16 @@
   "source": "To learn more about the mechanism behind these overrides, please refer to the {0} documentation on {1}environment-specific configuration{/1}.",
   "text": "Weitere Informationen zum Mechanismus hinter diesen Überschreibungen findest du in der Dokumentation von {0} zur {1}umgebungsspezifischen Konfiguration{/1}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Weitere Informationen zum Mechanismus hinter diesen Überschreibungen findest du in der Dokumentation von {0} zur {1}umgebungsspezifischen Konfiguration{/1}."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

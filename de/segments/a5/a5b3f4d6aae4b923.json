@@ -3,12 +3,16 @@
   "source": "If you're authoring layers, you can also use the {0} key to provide metadata that you or the consumers of your layer might use.",
   "text": "Wenn du Layer entwickelst, kannst du außerdem den Schlüssel {0} verwenden, um Metadaten bereitzustellen, die du oder die Nutzenden deines Layers verwenden können.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du Layer entwickelst, kannst du außerdem den Schlüssel {0} verwenden, um Metadaten bereitzustellen, die du oder die Nutzenden deines Layers verwenden können."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

@@ -3,12 +3,16 @@
   "source": "This file will often be mentioned in the documentation, for example to add custom scripts, register modules or change rendering modes.",
   "text": "Diese Datei wird in der Dokumentation häufig erwähnt, zum Beispiel um eigene Skripte hinzuzufügen, Module zu registrieren oder Rendering-Modi zu ändern.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Diese Datei wird in der Dokumentation häufig erwähnt, zum Beispiel um eigene Skripte hinzuzufügen, Module zu registrieren oder Rendering-Modi zu ändern."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

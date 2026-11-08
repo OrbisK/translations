@@ -1,14 +1,15 @@
 {
   "hash": "88deef7ef6d6e189",
   "source": "{0}: Public tokens that are determined at build time, website configuration such as theme variant, title and any project config that are not sensitive.",
-  "text": "{0}: Öffentliche Tokens, die zur Build-Zeit festgelegt werden, Website-Konfiguration wie Theme-Variante und Titel sowie jede Projektkonfiguration, die nicht sensibel ist.",
-  "origin": "mt",
-  "review": "none",
+  "text": "{0}: Öffentliche Tokens, die zur Build-Zeit festgelegt werden, Website-Konfiguration wie Theme-Variante und Titel sowie jede Projektkonfiguration, die nicht vertraulich ist.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0}: Öffentliche Tokens, die zur Build-Zeit festgelegt werden, Website-Konfiguration wie Theme-Variante und Titel sowie jede Projektkonfiguration, die nicht sensibel ist."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

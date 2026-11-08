@@ -3,12 +3,16 @@
   "source": "Watch a video from Alexander Lichter about the env-aware nuxt.config.ts",
   "text": "Sieh dir ein Video von Alexander Lichter zur umgebungsabhängigen nuxt.config.ts an",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Sieh dir ein Video von Alexander Lichter zur umgebungsabhängigen nuxt.config.ts an"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:50:44.792Z"
+  },
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }

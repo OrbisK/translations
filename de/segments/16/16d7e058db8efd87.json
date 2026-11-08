@@ -1,14 +1,15 @@
 {
   "hash": "16d7e058db8efd87",
   "source": "To select an environment when running a Nuxt CLI command, simply pass the name to the {0} flag, like so: {1}.",
-  "text": "Um beim Ausführen eines Nuxt-CLI-Befehls eine Umgebung auszuwählen, übergib den Namen einfach an das Flag {0}, etwa so: {1}.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Um beim Ausführen eines Kommandozeilenschnittstelle-Befehls (Nuxt-CLI-Befehls) eine Umgebung auszuwählen, übergib den Namen einfach an die Option {0}, etwa so: {1}.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um beim Ausführen eines Nuxt-CLI-Befehls eine Umgebung auszuwählen, übergib den Namen einfach an das Flag {0}, etwa so: {1}."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T15:50:44.792Z"
 }
