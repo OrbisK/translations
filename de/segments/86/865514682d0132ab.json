@@ -3,12 +3,16 @@
   "source": "Prerequisites",
   "text": "Voraussetzungen",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Voraussetzungen"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T15:01:11.372Z"
+  },
+  "updatedAt": "2026-11-08T15:01:11.372Z"
 }
